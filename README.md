@@ -1,4 +1,4 @@
-## Olá, me chamo Luiz Otávio 👋
+## Olá, me chamo Luiz Otávio 👋👨‍💻
 
 - 🔭 Estou começando minha jornada front-end.
 - 🌱 Estudando HTML, CSS e Javascript.
