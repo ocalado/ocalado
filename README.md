@@ -3,7 +3,7 @@
 - 🔭 Estou começando minha jornada front-end.
 - 🌱 Estudando HTML, CSS e Javascript.
 - 😎 Aos poucos me tornando dev.
-- 💢 Apesar de tudo, Vasco. 
+- 💢 VASCO. 
 
 <div align="center">
   <a href="https://github.com/ocalado">
