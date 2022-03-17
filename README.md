@@ -1,6 +1,8 @@
 ## Welcome to my Github! 👋👨‍💻
 
 - 🔭 Front-end developer
+- ✍🏻 Copyrighter
+- 🏊🏻‍♀️🏃🏻‍♂️🚴🏻‍♂️ Swim, run and cycle
   
   <div align="left">
   <a href="https://github.com/ocalado">
