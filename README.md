@@ -1,14 +1,10 @@
-## Olá, me chamo Luiz Otávio 👋👨‍💻
+## Welcome to my Github! 👋👨‍💻
 
-- 🔭 Estou começando minha jornada front-end.
-- 🌱 Estudando HTML, CSS e Javascript.
-- 😎 Aos poucos me tornando dev.
-- 💢 VASCO. 
+- 🔭 Front-end developer
   
-  <div align="center">
+  <div align="left">
   <a href="https://github.com/ocalado">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ocalado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocalado&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ocalado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
   
  ## Skills:  
@@ -21,7 +17,7 @@
   
   ## 
   
-<div> 
+<div align="right"> 
   <a href="https://instagram.com/ocalado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:otaviocalado147@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otaviocalado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
