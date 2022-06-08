@@ -1,6 +1,7 @@
 ## Welcome to my Github! 👋👨‍💻
 
 - 🔭 Front-end developer
+- 👨‍ I'm currently learging ReactJS
 - ✍🏻 Copyrighter
 - 🏊🏻‍♀️🏃🏻‍♂️🚴🏻‍♂️ Swim, run and cycle
   
