@@ -1,8 +1,8 @@
 ## Welcome to my Github! 👋👨‍💻
 
-- 🔭 Front-end developer
+- 🔭 I'm a front-end developer student
 - 👨‍ I'm currently learging ReactJS
-- ✍🏻 Copyrighter
+- ✍🏻 I'm Copyrighter
 - 🏊🏻‍♀️🏃🏻‍♂️🚴🏻‍♂️ Swim, run and cycle
   
   <div align="left">
