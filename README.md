@@ -1,9 +1,6 @@
 ## Welcome to my Github! 👋👨‍💻
 
-- 🔭 I'm a Full Stack developer student
-- 👨‍ I'm currently learning React
-- ✍🏻 I'm Copyrighter
-- 🏊🏻‍♀️🏃🏻‍♂️🚴🏻‍♂️ Swim, run and cycle
+Ah, você está aí? Este é meu Github.
   
   <div align="left">
   <a href="https://github.com/ocalado">
